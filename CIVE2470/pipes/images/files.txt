@@ -1,0 +1,50 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 005E-8D07
+
+ Directory of C:\Users\andy\OneDrive - University of Leeds\Courses\cive2470\Lecture Notes 201920\images
+
+05/03/2019  22:08    <DIR>          .
+05/03/2019  22:08    <DIR>          ..
+04/03/2019  20:51             7,943 fig_01_fluid_element.png
+04/03/2019  20:52            13,591 fig_02_pressure_loss_chart.png
+04/03/2019  20:52            11,326 fig_03_element_uniform_flow.png
+04/03/2019  20:53            79,626 fig_04_nikuradse.png
+04/03/2019  20:54           173,108 fig_05_moody_diagaram.png
+04/03/2019  20:54             7,752 fig_06_expansion.png
+04/03/2019  20:55             7,642 fig_07_contraction.png
+04/03/2019  20:56             7,640 fig_08_boundary_layer_separation.png
+04/03/2019  20:55            17,329 fig_08_exit_losses.png
+04/03/2019  20:56            17,742 fig_09_local_losses.png
+04/03/2019  20:57            19,298 fig_10_reser_pipe.png
+04/03/2019  20:57            28,831 fig_11_reser_pipe_piezo.png
+04/03/2019  20:58            32,817 fig_12_reser_pipe_piezo_2.png
+04/03/2019  20:58            35,063 fig_13_reser_pipe_piezo_3.png
+04/03/2019  20:58            33,921 fig_14_reser_pipe_piezo_4.png
+04/03/2019  20:59            10,028 fig_15_reser_pipe_eg.png
+04/03/2019  20:59            14,262 fig_16_reser_pipe_eg_2.png
+04/03/2019  21:00             6,803 fig_17_parallel.png
+04/03/2019  21:00             9,574 fig_18_branched.png
+04/03/2019  21:01             7,935 fig_19_eg_01.png
+04/03/2019  21:02            10,048 fig_20_looped_branched.png
+04/03/2019  21:02             4,083 fig_21_looped_orknet.png
+04/03/2019  21:03             4,654 fig_22_looped_hardy_cross.png
+04/03/2019  21:03             9,600 fig_22_looped_hardy_cross_eg_01.png
+04/03/2019  21:03            17,844 fig_23_looped_hardy_cross_eg_02.png
+04/03/2019  21:04             3,006 fig_24_matrix_pipe_01.png
+04/03/2019  21:04             7,112 fig_25_branched_eg.png
+04/03/2019  21:08             9,305 fig_26_branched_eg.png
+04/03/2019  21:08             6,437 fig_27_matrix_pipe_02.png
+04/03/2019  21:09            17,568 fig_28_pump_volute.png
+04/03/2019  21:09            33,724 fig_29_pump_blade_angles.png
+04/03/2019  21:10            17,184 fig_30_pump_pipe_line.png
+04/03/2019  21:10            21,796 fig_31_pump_curves.png
+04/03/2019  21:11            21,461 fig_32_pump_pipe_curves.png
+04/03/2019  21:11            26,715 fig_33_pump_pipe_eff_curves.png
+04/03/2019  21:12         1,044,562 fig_34_pump_commercial_curves.png
+04/03/2019  21:12             7,166 fig_35_pump_pipe_eg_01.png
+04/03/2019  21:13            16,505 fig_36_pump_pipe_eg_02.png
+05/03/2019  22:08                 0 files.txt
+04/03/2019  10:42            19,697 general_pipe_system.png
+29/09/2017  13:42            24,103 UoL_logo_BLACK.jpg
+              41 File(s)      1,864,801 bytes
+               2 Dir(s)  32,718,835,712 bytes free
